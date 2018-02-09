@@ -10,7 +10,7 @@ This is a placeholder for an IDL V2 demo.
 1. Although in Markdown all of the numbers in the list are identical, they will be updated when rendered. 
 
 ---
-You can make lines as well
+You can make horizontal lines as well
 ---
 
 
